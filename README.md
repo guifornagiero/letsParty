@@ -8,7 +8,7 @@ Descubra o mundo noturno com o letsParty! Nosso aplicativo revoluciona a forma c
 3. Filtros (avaliações, temas, música, etc)
 
 # Membros
-Guilherme Fornagiero de Carvalho - 22.122.016-3
-Livia Lumi Miyabara - 22.122.045-2
-Paulo Vinícius Bessa de Brito - 22.122.005-6
+Guilherme Fornagiero de Carvalho - 22.122.016-3 <br>
+Livia Lumi Miyabara - 22.122.045-2 <br>
+Paulo Vinícius Bessa de Brito - 22.122.005-6 <br>
 Sofia Fernandes França - 22.122.082-5
